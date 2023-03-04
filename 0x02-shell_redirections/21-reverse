@@ -1,5 +1,2 @@
 #!/bin/bash
-grep -i "^[a-z]" /etc/ssh/sshd_config echo -e #!/bin/bash
-tr Ac Ze echo -e #!/bin/bash
-tr -d cC echo -e #!/bin/bash
 rev
